@@ -1,1 +1,2 @@
-let hello = "world"
+let var = "value"
+print "hello world" var
